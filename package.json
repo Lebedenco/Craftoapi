@@ -1,0 +1,21 @@
+{
+  "name": "craftoapi",
+  "version": "1.0.0",
+  "description": "Minecraft recipe API",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Minecraft",
+    "Crafting",
+    "Recipe"
+  ],
+  "author": "Diego Lebedenco",
+  "license": "ISC"
+}
