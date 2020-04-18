@@ -1,1 +1,21 @@
-{"crafting":[{"version":"minecraft","items":[{"name":"chest","crafting":"minecraft:planks-minecraft:planks-minecraft:planks;minecraft:planks-nothing-minecraft:planks;minecraft:planks-minecraft:planks-minecraft:planks"},{"name":"wooden_pickaxe","crafting":"minecraft:planks-minecraft:planks-minecraft:planks;nothing-minecraft:stick-nothing;nothing-minecraft:stick-nothing"},{"name":"stone_pickaxe","crafting":"minecraft:cobblestone-minecraft:cobblestone-minecraft:cobblestone;nothing-minecraft:stick-nothing;nothing-minecraft:stick-nothing"}]},{"version":"chisel","items":[{"name":"chisel_iron","crafting":"nothing-minecraft:iron_ingot-nothing;minecraft:stick-nothing-nothing;nothing-nothing-nothing"}]}]}
+{
+  "crafting": [{
+    "version": "minecraft",
+    "items": [{
+      "name": "chest",
+      "crafting": "minecraft:planks-minecraft:planks-minecraft:planks;minecraft:planks-nothing-minecraft:planks;minecraft:planks-minecraft:planks-minecraft:planks"
+    }, {
+      "name": "wooden_pickaxe",
+      "crafting": "minecraft:planks-minecraft:planks-minecraft:planks;nothing-minecraft:stick-nothing;nothing-minecraft:stick-nothing"
+    }, {
+      "name": "stone_pickaxe",
+      "crafting": "minecraft:cobblestone-minecraft:cobblestone-minecraft:cobblestone;nothing-minecraft:stick-nothing;nothing-minecraft:stick-nothing"
+    }]
+  }, {
+    "version": "chisel",
+    "items": [{
+      "name": "chisel_iron",
+      "crafting": "nothing-minecraft:iron_ingot-nothing;minecraft:stick-nothing-nothing;nothing-nothing-nothing"
+    }]
+  }]
+}
